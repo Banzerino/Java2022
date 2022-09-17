@@ -6,7 +6,7 @@ public class datatype {
 		int sayi = 129;
 		sayi = 13;
 		
-		char karakter = "B";
+		char karakter = 'B';
 		String sehir = "İstanbul";
 		boolean yanlisMi = true;
 		
